@@ -1,4 +1,4 @@
-[Concurrency vs. Parallelism / jenkov](http://tutorials.jenkov.com/java-concurrency/concurrency-vs-parallelism.html)
+[Concurrency vs. Parallelism / jenkov](http://tutorials.jenkov.com/java-concurrency/concurrency-vs-parallelism.html)   
 [Concurrency vs. Parallelism / HowToDoInJava](https://howtodoinjava.com/java/multi-threading/concurrency-vs-parallelism/)
 
 ## Concurrency
