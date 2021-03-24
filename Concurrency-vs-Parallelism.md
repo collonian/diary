@@ -1,4 +1,6 @@
-[Reference](http://tutorials.jenkov.com/java-concurrency/concurrency-vs-parallelism.html)
+[Concurrency vs. Parallelism / jenkov](http://tutorials.jenkov.com/java-concurrency/concurrency-vs-parallelism.html)
+[Concurrency vs. Parallelism / HowToDoInJava](https://howtodoinjava.com/java/multi-threading/concurrency-vs-parallelism/)
+
 ## Concurrency
 특정 기간동안 동시에 여러 task가 실행됨. 각 task가 정확히 같은 시각에 실행되는 것이 아님. 각 task에 대한 처리를 위하여 switching이 발생
 
