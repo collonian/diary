@@ -2,7 +2,8 @@
 
 ## Container 란?
 Host OS와 격리되어, 독립적으로 실행 가능한 소프트웨어 단위.   
-namespace 가상화를 이용하여 시스템을 격리.
+namespace 가상화를 이용하여 시스템을 격리.   
+cgroup을 이용하여 가상화 자원 관리.
 
 ### Namespace
 * MNT (Mount)
