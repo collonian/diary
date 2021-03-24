@@ -1,9 +1,9 @@
 [Reference](http://tutorials.jenkov.com/java-concurrency/concurrency-vs-parallelism.html)
 ## Concurrency
-동시에 여러 task가 실행됨. 각 task에 대한 처리를 위하여 switching이 발생
+특정 기간동안 동시에 여러 task가 실행됨. 각 task가 정확히 같은 시각에 실행되는 것이 아님. 각 task에 대한 처리를 위하여 switching이 발생
 
 ## Parallelism
-하나의 task를 sub-task로 분할하여 병렬로 실행.
+특정 기간동안 여러 Task가 동시에 실행됨.
 
 
 ## Concurrent, not Parallel
