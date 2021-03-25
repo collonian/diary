@@ -17,3 +17,22 @@ pull request나 commit 수와 같이 명확한 수치도 peer programming이나 
 개인과 팀, 조직의 생산성의 균형을 찾는것이 중요하다.
 
 ## Myth: One productivity metric can tell us everything
+생산성은 작업이 이루어지는 Context에 의해 큰 영향을 받는다.
+
+## Myth: Productivity Measures ARE useful only for managers
+생산성을 통하여 개발자들은 그들의 일에 대한 insight를 얻을 수 있고, 그들의 시간이나 에너지를 관리하기 위해 사용할 수 있다.
+
+## Myth: Productivity is only about engineering systems and developr tools
+개발자도구와 워크플로우는 생산성에 큰 영향을 미치지만, 환경이나 문화와 같은 인적 요소도 많은 영향을 준다.
+
+# SPACE: A Framework for Understanding Developer Productivity
+
+## Satisfaction and well-being
+## Performance
+## Activity
+## Communication and collaboration
+## Efficiency and flow
+
+
+# Framework in Action
+![Example matrics](https://dl.acm.org/cms/attachment/651859d3-236f-46df-a5bc-3373b1437edb/forsgren1.png)
